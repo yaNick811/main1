@@ -13,5 +13,5 @@ def summa(n):
     else:
         return n + summa(n - 2)
 
-print(summa(14))
 
+print(summa(14))
